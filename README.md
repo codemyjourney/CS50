@@ -1,4 +1,7 @@
-# CS50
-Runoff for Pset3
+# CS50 2020
+CS50 2020 Pset3 Run Off
 
-Pset4 filter reflect
+CS50 2020 Pset4 Filter - Reflect
+
+CS50 2020 Pset5 SPELLER,
+from HarvarX Couse on Computer Science
